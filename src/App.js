@@ -11,7 +11,7 @@ const App = () => {
     <>
         {/* <Header/> */}
         <OffiMekal/>
-        <Home/>
+        {/* <Home/> */}
     </>
   )
 }
