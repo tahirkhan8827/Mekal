@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mekal/static/css/main.5a85cc54.css",
-    "main.js": "/Mekal/static/js/main.cc51a7ea.js",
+    "main.css": "/Mekal/static/css/main.6dfaf08a.css",
+    "main.js": "/Mekal/static/js/main.adda03f0.js",
     "static/js/563.cf539b79.chunk.js": "/Mekal/static/js/563.cf539b79.chunk.js",
     "static/media/logo.png": "/Mekal/static/media/logo.b3bd929b519603608b97.png",
     "static/media/5.jpeg": "/Mekal/static/media/5.4bafd1d3b24a2436501c.jpeg",
@@ -12,12 +12,12 @@
     "static/media/6.jpeg": "/Mekal/static/media/6.f7b10b4d76eab97efc18.jpeg",
     "static/media/3.jpeg": "/Mekal/static/media/3.a18f5c7c2ca55d027cda.jpeg",
     "index.html": "/Mekal/index.html",
-    "main.5a85cc54.css.map": "/Mekal/static/css/main.5a85cc54.css.map",
-    "main.cc51a7ea.js.map": "/Mekal/static/js/main.cc51a7ea.js.map",
+    "main.6dfaf08a.css.map": "/Mekal/static/css/main.6dfaf08a.css.map",
+    "main.adda03f0.js.map": "/Mekal/static/js/main.adda03f0.js.map",
     "563.cf539b79.chunk.js.map": "/Mekal/static/js/563.cf539b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a85cc54.css",
-    "static/js/main.cc51a7ea.js"
+    "static/css/main.6dfaf08a.css",
+    "static/js/main.adda03f0.js"
   ]
 }
