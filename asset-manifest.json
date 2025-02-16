@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mekal/static/css/main.099e49e0.css",
+    "main.css": "/Mekal/static/css/main.b954be29.css",
     "main.js": "/Mekal/static/js/main.691ee293.js",
     "static/js/488.7a876c9d.chunk.js": "/Mekal/static/js/488.7a876c9d.chunk.js",
     "static/media/logo.png": "/Mekal/static/media/logo.b3bd929b519603608b97.png",
@@ -16,12 +16,12 @@
     "static/media/why-1.webp": "/Mekal/static/media/why-1.a6a7f1f14573b34d04f2.webp",
     "static/media/why-2.webp": "/Mekal/static/media/why-2.960e8d997beb95f94633.webp",
     "index.html": "/Mekal/index.html",
-    "main.099e49e0.css.map": "/Mekal/static/css/main.099e49e0.css.map",
+    "main.b954be29.css.map": "/Mekal/static/css/main.b954be29.css.map",
     "main.691ee293.js.map": "/Mekal/static/js/main.691ee293.js.map",
     "488.7a876c9d.chunk.js.map": "/Mekal/static/js/488.7a876c9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.099e49e0.css",
+    "static/css/main.b954be29.css",
     "static/js/main.691ee293.js"
   ]
 }
